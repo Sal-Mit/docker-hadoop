@@ -1,8 +1,8 @@
-[![Gitter chat](https://gitter.im/big-data-europe/Lobby" style="color: rgb(25, 106, 212); font-size: 13px; font-family: Helvetica, Arial, sans-serif;">https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/big-data-europe/Lobby)
+[![Gitter chat](https://gitter.im/big-data-europe/Lobby)
 
 # Changes
 
-Added a tutorial from scratch to make the docker base Hadoop cluster. The instructions are from [How to set up a Hadoop cluster in Docker](https://clubhouse.io/developer-how-to/how-to-set-up-a-hadoop-cluster-in-docker/) with some changes and more clarity (I found the blog a little confusing).
+Added a tutorial from scratch to make a Docker based Hadoop cluster. The instructions are from [How to set up a Hadoop cluster in Docker](https://clubhouse.io/developer-how-to/how-to-set-up-a-hadoop-cluster-in-docker/) with some changes and more clarity (I found the blog a little confusing).
 
 # Hadoop Docker
 
