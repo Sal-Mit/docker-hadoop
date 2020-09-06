@@ -37,7 +37,7 @@ Download this repository as a zip (by clicking on the green button on the top ri
 
 In the terminal (Docker QuickStart) navigate to the unzipped folder that you made in the last step by using the "cd" command:
 ```
-  cd C:\Users\*---*\Desktop\docker-hadoop-master
+  cd C:\\Users\*---*\Desktop\docker-hadoop-master
 ```
 
 Run this:
@@ -53,7 +53,7 @@ After pulling the Hadoop docker images from the web for the first time and build
   $ docker ps
 ```
 
-Also, you can go to http://localhost:9870/ from your browser to see the namenode status.
+Also, you can go to http://DockerIP:9870/ from your browser to see the namenode status. (Docker IP from by running:"docker-machine config default")
 
 ### Test the Hadoop cluster
 
