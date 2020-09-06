@@ -37,7 +37,7 @@ Download this repository as a zip (by clicking on the green button on the top ri
 
 In the terminal (Docker QuickStart) navigate to the unzipped folder that you made in the last step by using the "cd" command:
 ```
-  cd C:\\Users\*---*\Desktop\docker-hadoop-master
+  cd Desktop\docker-hadoop-master
 ```
 
 Run this:
