@@ -1,13 +1,11 @@
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/big-data-europe/Lobby)
 
-# Changes
-
-Added a tutorial from scratch to make a Docker based Hadoop cluster. The instructions are from [How to set up a Hadoop cluster in Docker](https://clubhouse.io/developer-how-to/how-to-set-up-a-hadoop-cluster-in-docker/) with some changes and more clarity (I found the blog a little confusing).
-
 # Hadoop Docker
 
-## Supported Hadoop Versions
-See repository branches for supported Hadoop versions
+# Last Changes
+
+- Added the step by step video Tutorial: [Installing a Hadoop Cluster By Docker](https://youtu.be/FvVaQrQC6_w)
+- Added a tutorial from scratch to make a Docker based Hadoop cluster. The instructions are from [How to set up a Hadoop cluster in Docker](https://clubhouse.io/developer-how-to/how-to-set-up-a-hadoop-cluster-in-docker/) with some changes and more clarity (I found the blog a little confusing).
 
 ## Quick Start
 
@@ -112,7 +110,13 @@ To shut down the cluster and remove containers, use this command:
 ```
 
 
-# Original Big Data Europe repository tutorial
+# Original Big Data Europe repository tutorial...
+
+## Supported Hadoop Versions
+See repository branches for supported Hadoop versions
+
+## Supported Hadoop Versions
+Getting Started:
 To deploy an example HDFS cluster, run:
 ```
   docker-compose up
