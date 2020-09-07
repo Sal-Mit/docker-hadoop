@@ -2,7 +2,7 @@
 
 # Hadoop Docker
 
-# Last Changes
+## Last Changes
 
 - Added the step by step video Tutorial: [Installing a Hadoop Cluster By Docker](https://youtu.be/FvVaQrQC6_w)
 - Added a tutorial from scratch to make a Docker based Hadoop cluster. The instructions are from [How to set up a Hadoop cluster in Docker](https://clubhouse.io/developer-how-to/how-to-set-up-a-hadoop-cluster-in-docker/) with some changes and more clarity (I found the blog a little confusing).
@@ -109,6 +109,7 @@ To shut down the cluster and remove containers, use this command:
   $ docker-compose down
 ```
 
+The END!
 
 # Original Big Data Europe repository tutorial...
 
